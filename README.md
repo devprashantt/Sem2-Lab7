@@ -26,13 +26,13 @@
 
 2. Write a PHP program to print alphabet pattern ‘Y’
 
-      *            *
-        *        *
-          *   *
-            *
-            *
-            *
-            *
+              *            *
+                *        *
+                  *   *
+                    *
+                    *
+                    *
+                    *
 
 3. Write a PHP program to calculate electricity bill. Conditions:
 
@@ -51,8 +51,8 @@
 
 5. Write a PHP Program to print pyramid type pattern using alphabet. The pattern is as follows:
 
-            A
-          A B A
-        A B C B A
-      A B C D C B A
-    A B C D E D C B A
+                    A
+                  A B A
+                A B C B A
+              A B C D C B A
+            A B C D E D C B A
