@@ -20,9 +20,9 @@
          * * * * * *
           * * * * *
            * * * *
-           * * *
-            * *
-             *
+            * * *
+             * *
+              *
 
 2. Write a PHP program to print alphabet pattern ‘Y’
 
